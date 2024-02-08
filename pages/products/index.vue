@@ -4,6 +4,11 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+const { id } = useRoute().params;
+definePageMeta({
+  layout: 'products',
+});
+</script>
 
 <style scoped></style>

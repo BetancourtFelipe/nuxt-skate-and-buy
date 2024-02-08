@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Skate & Buy</h2>
+    <h2>Home</h2>
     <p>
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus
       nobis natus dolorum quae. Autem, repudiandae quis placeat nihil sunt est.
